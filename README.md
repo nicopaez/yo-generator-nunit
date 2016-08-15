@@ -1,5 +1,6 @@
 # generator-nunit [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> NUnit Test Project generator for .Net Core
+
+NUnit Test Project generator for .Net Core
 
 ## Installation
 
