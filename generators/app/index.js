@@ -28,18 +28,18 @@ module.exports = yeoman.Base.extend({
     this.fs.copyTpl(
       this.templatePath('Foo.cs'),
       this.destinationPath('Foo.cs'),
-      { namespace: this.props.projectName }
+      {namespace: this.props.projectName}
     );
     this.fs.copyTpl(
       this.templatePath('FooTest.cs'),
       this.destinationPath('FooTest.cs'),
-      { namespace: this.props.projectName }
+      {namespace: this.props.projectName}
     );
     this.fs.copyTpl(
       this.templatePath('project.json'),
       this.destinationPath('project.json')
     );
-  },
+  }
 
   /*
   check if run dotnet restore

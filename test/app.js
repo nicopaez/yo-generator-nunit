@@ -12,7 +12,7 @@ describe('generator-nunit:app', function () {
 
   it('creates files', function () {
     assert.file([
-      'Foo.cs','FooTest.cs','project.json'
+      'Foo.cs', 'FooTest.cs', 'project.json'
     ]);
   });
 });
