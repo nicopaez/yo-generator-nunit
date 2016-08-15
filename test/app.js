@@ -6,13 +6,13 @@ var helpers = require('yeoman-test');
 describe('generator-nunit:app', function () {
   before(function () {
     return helpers.run(path.join(__dirname, '../generators/app'))
-      .withPrompts({someAnswer: true})
+      .withPrompts({projectName: 'MyTestProject'})
       .toPromise();
   });
 
   it('creates files', function () {
     assert.file([
-      'dummyfile.txt'
+      'Foo.cs','FooTest.cs','project.json'
     ]);
   });
 });
