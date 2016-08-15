@@ -1,6 +1,6 @@
 {
   "name": "generator-nunit",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "NUnit Test Project generator for .Net Core",
   "homepage": "https://github.com/nicopaez/yo-generator-nunit",
   "author": {
