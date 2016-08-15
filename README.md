@@ -30,7 +30,8 @@ Apache-2.0 © [Nicolas Paez](blog.nicopaez.com)
 
 [npm-image]: https://badge.fury.io/js/generator-nunit.svg
 [npm-url]: https://npmjs.org/package/generator-nunit
-[travis-image]: https://travis-ci.org/nicopaez/generator-nunit.svg?branch=master
-[travis-url]: https://travis-ci.org/nicopaez/generator-nunit
+[travis-image]: https://travis-ci.org/nicopaez/yo-generator-nunit.svg?branch=master
+[travis-url]: https://travis-ci.org/nicopaez/yo-generator-nunit
 [daviddm-image]: https://david-dm.org/nicopaez/generator-nunit.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/nicopaez/generator-nunit
+
